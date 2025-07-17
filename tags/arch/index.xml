@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch on whyuhurtz 💔 me</title>
+    <link>http://localhost:1313/tags/arch/</link>
+    <description>Recent content in Arch on whyuhurtz 💔 me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wahyupriambodo.sec@gmail.com (Wahyu Priambodo)</managingEditor>
+    <webMaster>wahyupriambodo.sec@gmail.com (Wahyu Priambodo)</webMaster>
+    <copyright>&amp;copy; 2025 All rights reserved. 🇵🇸 **Free Palestine**.</copyright>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Install Arch Linux from Scratch with KDE Plasma</title>
+      <link>http://localhost:1313/posts/2025/01/install-arch-linux-with-kde-plasma/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wahyupriambodo.sec@gmail.com (Wahyu Priambodo)</author>
+      <guid>http://localhost:1313/posts/2025/01/install-arch-linux-with-kde-plasma/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025/01/install-arch-linux-with-kde-plasma/feature-post1.jpg" />
+    </item>
+    
+  </channel>
+</rss>
