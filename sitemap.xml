@@ -21,7 +21,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2025/06/install-ubuntu-gnome-from-scratch-with-debootstrap/</loc>
+    <loc>http://localhost:1313/posts/2025/06/install-ubuntu-gnome-from-scratch-using-debootstrap/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
